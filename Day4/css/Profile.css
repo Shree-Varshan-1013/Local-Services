@@ -1,0 +1,20 @@
+.root-profile{
+    min-height: 100vh;
+    background-color: #2B2D42;
+    padding-top: 60px;
+}
+
+.profile-container{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.descp{
+    width: 100%;
+}
+
+.photo{
+    width: 100%;
+}
