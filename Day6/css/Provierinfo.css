@@ -1,0 +1,19 @@
+.provider-info-root{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    /* align-items: center; */
+}
+
+.provider-right{
+    width: 50%;
+}
+
+.provider-left{
+    width: 50%;
+}
+
+.provider-contain{
+    min-height: 100vh;
+}
