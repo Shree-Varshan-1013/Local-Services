@@ -1,0 +1,22 @@
+.feedback-root{
+    width: 100%;
+}
+
+.feedback-inner{
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: inherit;
+    backdrop-filter: blur(10px);
+}
+
+#feedback-container{
+    min-height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(146, 117, 117, 0.2)),
+    url("/images/reg-back4.jpg"); 
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+

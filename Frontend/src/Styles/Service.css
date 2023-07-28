@@ -1,0 +1,55 @@
+.service{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    margin-botom: 50px;
+}
+
+.service-container{
+    margin: 50px;
+    user-select: none;
+}
+
+.service-image{
+    width: auto;
+}
+
+.service-content{
+    width: 50%;
+    margin-top: 65px;
+    margin-down: 65px;
+}
+
+.service-content > p, .service-content2 > p{
+    font-family: 'Anuphan', sans-serif;
+    font-size: 40px;
+}
+
+.service-sub{
+    font-family: 'Baskervville', serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h1{
+    font-family: 'Baskervville', serif;
+    text-align: center;
+    font-size: 40px;
+    margin: 60px;
+    font-weight: 700;
+}
+
+.service2{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    margin-botom: 50px;
+    
+}
+
+.service-content2{
+    width: 50%;
+    margin-top: 7%;
+    margin-left: 4.5%;
+    
+}

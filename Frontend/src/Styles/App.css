@@ -1,0 +1,16 @@
+.base{
+    display: flex;
+    flex-direction: row;
+}
+
+.master{
+   background-image: url('/images/reg-back4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.css-iei9a9-MuiTypography-root{
+    margin-top: 0px !important;
+}
+
